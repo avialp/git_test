@@ -1,0 +1,17 @@
+git status
+git add
+$ git add
+
+
+-help
+--help
+\
+
+
+cd
+cat>
+exit
+
+
+cd
+$ cd
